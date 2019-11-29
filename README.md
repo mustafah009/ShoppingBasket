@@ -4,10 +4,10 @@
 
 ### Building and running tests
 * From the command line you can build the project with:
-gradlew build
+** gradlew build
 
 * And run the tests with:
-gradlew test
+** gradlew test
 
 ### Instructions to submit:
 
