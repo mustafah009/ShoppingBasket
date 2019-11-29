@@ -3,12 +3,12 @@
 ## Instructions
 
 ### Building and running tests
-* From the command line you can build the project with:
+From the command line you can build the project with:
 ``` 
 gradlew build
 ```
 
-* And run the tests with:
+And run the tests with:
 ```
 gradlew test
 ```
