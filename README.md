@@ -1,5 +1,20 @@
 # ShoppingBasket test
 
+##Instructions
+
+### Building and running tests
+* From the command line you can build the project with:
+gradlew build
+
+* And run the tests with:
+gradlew test
+
+
+After you're done, zip up your project and submit to the HR tacking care of your case:
+Don't do a PR/Fork as everyone else would see your work and could copy it.
+
+
+
 * The test is based around a simple checkout pipeline for an online store or POS system.
 * A Basket of BasketItems is passed to a CheckoutPipeline. 
 * The basket is placed in a CheckoutContext, then passed through a series of CheckoutSteps. 
@@ -24,10 +39,3 @@ The checkout process involves a number of CheckoutSteps.
 ### Expected outcomes:
 * Writing a test for the new implementation of CheckoutStep that mocks the interaction with the PromotionService.
 * Successful implementation of a CheckoutStep that uses a PromotionsService and adds the promotions retrieved from the service into the CheckoutContext
-
-
-From the command line you can build the project with:
-gradlew build
-
-And run the tests with:
-gradlew test
