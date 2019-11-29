@@ -24,3 +24,10 @@ The checkout process involves a number of CheckoutSteps.
 ### Expected outcomes:
 * Writing a test for the new implementation of CheckoutStep that mocks the interaction with the PromotionService.
 * Successful implementation of a CheckoutStep that uses a PromotionsService and adds the promotions retrieved from the service into the CheckoutContext
+
+
+From the command line you can build the project with:
+gradlew build
+
+And run the tests with:
+gradlew test
