@@ -10,7 +10,7 @@ gradlew build
 
 * And run the tests with:
 ```
-** gradlew test
+gradlew test
 ```
 
 ### Instructions to submit:
