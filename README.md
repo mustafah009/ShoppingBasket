@@ -1,5 +1,4 @@
-### ShoppingBasket
-Pairing test for back end Java
+### ShoppingBasket test
 
 * The test is based around a simple checkout pipeline for an online store or POS system.
 * A Basket of BasketItems is passed to a CheckoutPipeline. 
