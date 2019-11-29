@@ -15,7 +15,7 @@ Instructions:
 
 Expected outcomes:
 * Tests that adequately cover initial and expected contents of a basket.
-** ConsolidateItems method implemented sucessfully.
+* ConsolidateItems method implemented sucessfully.
 
 # Part2:
 The checkout process involves a number of CheckoutSteps. 
