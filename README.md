@@ -1,6 +1,6 @@
 # ShoppingBasket test
 
-##Instructions
+## Instructions
 
 ### Building and running tests
 * From the command line you can build the project with:
