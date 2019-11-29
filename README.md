@@ -9,18 +9,18 @@ gradlew build
 * And run the tests with:
 gradlew test
 
+### Instructions to submit:
 
 After you're done, zip up your project and submit to the HR tacking care of your case:
 Don't do a PR/Fork as everyone else would see your work and could copy it.
 
 
-
+### Project details
 * The test is based around a simple checkout pipeline for an online store or POS system.
 * A Basket of BasketItems is passed to a CheckoutPipeline. 
 * The basket is placed in a CheckoutContext, then passed through a series of CheckoutSteps. 
 * These process/update the basket, its items and the context to collect data to produce a final bill.
 
-### Instructions:
 
 ## Part1:
 * We have the start of an implementation for a Shopping Basket service which could be used by either a physical point-of-sale or online store. 
